@@ -1,6 +1,6 @@
 # Image-to-Image-Translation Using GANs
 #
-#Purpose
+# Purpose
 The purpose of the project is to implement a semantic image-to-image translation using Generative Adversarial Networks and Autoencoders to elucidate on unsupervised machine learning. The intent is to develop a GANs based model to create new novel images from existing image input.
 
 ## Sub Purpose
@@ -37,6 +37,5 @@ Android Studio<br>
 
 <br>
 ![2](https://user-images.githubusercontent.com/47741140/149626922-0b6fe9a6-a827-46e1-98d6-8a981899eb97.jpeg)
-
 <br>
 
